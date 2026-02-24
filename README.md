@@ -1,2 +1,2 @@
 # Hello there! 👋
-I'm a Senior Backend Developer with experience in the FinTech space, currently working for Austria's first Unicorn 🦄 Bitpanda in the marvelous city of Vienna, Austria 🇦🇹
+I'm an Engineering Manager & Senior Backend Developer with experience in the FinTech space, currently working for Austria's first Unicorn 🦄 Bitpanda in the marvelous city of Vienna, Austria 🇦🇹
